@@ -1,0 +1,33 @@
+{
+  "sourceLanguage" : "nl",
+  "strings" : {
+    "%@" : {
+
+    },
+    "Code" : {
+
+    },
+    "Enter city" : {
+
+    },
+    "Enter name" : {
+
+    },
+    "Enter your postalcode" : {
+
+    },
+    "Enter your score" : {
+
+    },
+    "Formatted: %@" : {
+
+    },
+    "nil" : {
+
+    },
+    "Wee; %@" : {
+
+    }
+  },
+  "version" : "1.1"
+}
