@@ -24,13 +24,3 @@ struct NoOpFormatStyle: ParseableFormatStyle {
     }
 }
 
-/*
- if s.wholeMatch(of: regex) != nil {
-         print("✅ Partial or full match: \(s)")
-     } else {
-         print("❌ Invalid prefix: \(s)")
-     }
- */
-
-
-
